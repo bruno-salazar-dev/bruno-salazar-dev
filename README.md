@@ -1,154 +1,99 @@
-# Olá! 👋 Eu sou Bruno da Silva Salazar Pardo
+# 👋 Bruno da Silva Salazar Pardo
 
-### 💻 Jovem Aprendiz | Estudante de Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor Full Stack
+`💻 Desenvolvedor Full Stack` • `🎓 Estudante de ADS`
 
-📍 Guarulhos, SP  
-📧 brunosalazarse@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/bruno-da-silva-s-802070292)
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul e atualmente trabalho como **Jovem Aprendiz - Auxiliar de RH na Bauducco**.
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul e atualmente trabalho como **Jovem Aprendiz - Auxiliar de RH na Bauducco**.
-
-Tenho como objetivo construir minha carreira na área de tecnologia, com foco em **Desenvolvimento Full Stack**.
-
-Atualmente, estou desenvolvendo meus conhecimentos em **Python, HTML, JavaScript, Git e GitHub**, além de estudar conceitos fundamentais de **lógica de programação, desenvolvimento web e controle de versão**.
-
-Também possuo experiência em ambiente corporativo, desenvolvendo habilidades de **comunicação, organização, responsabilidade, trabalho em equipe e adaptação a novos processos**.
+Tenho interesse em **desenvolvimento web e software**, com foco em evoluir como **Desenvolvedor Full Stack**. Atualmente estou estudando programação, desenvolvimento web, bancos de dados e controle de versão.
 
 ---
 
-## 💻 Tecnologias e Conhecimentos
+## 🤖 Linguagens
 
-### Linguagens e Desenvolvimento
-
-- 🐍 **Python** — Básico
-- 🌐 **HTML**
-- ⚡ **JavaScript** — Básico
-
-### Ferramentas
-
-- 🔧 **Git**
-- 🐙 **GitHub**
-- 📊 **Microsoft Excel**
-- 📝 **Microsoft Word**
-- 📽️ **Microsoft PowerPoint**
-
-### Conceitos
-
-- 🧠 Lógica de Programação
-- 🔀 Controle de Versão
-- 🌐 Desenvolvimento Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+</p>
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🧩 Ferramentas & Tecnologias
 
-### Análise e Desenvolvimento de Sistemas
-
-**Universidade Cruzeiro do Sul**
-
-📅 Cursando desde Maio de 2025
-
----
-
-## 💼 Experiência Profissional
-
-### Jovem Aprendiz — Auxiliar de RH
-
-**Bauducco**  
-📅 Maio de 2025 — Atual
-
-Durante minha experiência na área de Recursos Humanos, desenvolvo atividades administrativas e habilidades profissionais que também contribuem para minha formação na área de tecnologia.
-
-**Principais atividades:**
-
-- Utilização diária do **Pacote Office**, principalmente Excel, Word e PowerPoint.
-- Organização e controle de informações e planilhas.
-- Apoio nas rotinas administrativas do setor de Recursos Humanos.
-- Condução de apresentações em palestras e integrações de novos colaboradores.
-- Desenvolvimento de comunicação em público, desenvoltura e confiança.
-- Cumprimento de rotinas e prazos com disciplina e responsabilidade.
-- Trabalho em equipe e adaptação a diferentes processos e demandas.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+</p>
 
 ---
 
-## 📜 Certificações
+## 🗄️ Banco de Dados
 
-- **Microsoft Azure Fundamentals — AZ-500**  
-  SENAI Hermenegildo Campos — 2023
-
-- **Informática Básica**  
-  SENAI Hermenegildo Campos — 2023
-
----
-
-## 🧠 Habilidades
-
-### Hard Skills
-
-- Python
-- HTML
-- JavaScript
-- Git
-- GitHub
-- Lógica de Programação
-- Desenvolvimento Web
-- Controle de Versão
-- Excel
-- Word
-- PowerPoint
-
-### Soft Skills
-
-- 🗣️ Comunicação em público
-- 🎤 Condução de apresentações e palestras
-- 🚀 Aprendizado rápido
-- 🔄 Adaptação a novos processos
-- 🎯 Disciplina e responsabilidade
-- 🤝 Trabalho em equipe
-
----
-
-## 🌎 Idiomas
-
-**Inglês:** A2 — Básico
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco uma oportunidade na área de **Desenvolvimento de Software**, com o objetivo de iniciar minha carreira como desenvolvedor e evoluir profissionalmente até atuar como **Desenvolvedor Full Stack**.
-
-Tenho interesse em aprender continuamente, transformar conhecimentos em projetos práticos e contribuir para soluções utilizando tecnologia.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+</p>
 
 ---
 
 ## 📚 Atualmente estudando
 
 - 🐍 Python
+- 🌐 Desenvolvimento Web
 - ⚡ JavaScript
-- 🌐 HTML
-- 💻 Desenvolvimento Web
+- 🗄️ Banco de Dados e SQL
 - 🔧 Git e GitHub
 - 🧠 Lógica de Programação
-- 🚀 Fundamentos de Desenvolvimento Full Stack
+- 🚀 Desenvolvimento Full Stack
 
 ---
 
-## 📌 Projetos
+## 🎓 Formação
 
-🚧 *Em breve, novos projetos serão adicionados ao meu portfólio.*
+**Análise e Desenvolvimento de Sistemas**  
+🎓 Universidade Cruzeiro do Sul  
+📅 Cursando desde Maio/2025
 
 ---
 
-## 📫 Entre em contato
+## 💼 Experiência
 
-📧 **E-mail:** brunosalazarse@gmail.com
+**Jovem Aprendiz — Auxiliar de RH | Bauducco**  
+📅 Maio/2025 — Atual
 
-🔗 **LinkedIn:** [linkedin.com/in/bruno-da-silva-s-802070292](https://linkedin.com/in/bruno-da-silva-s-802070292)
+- 📊 Rotinas administrativas e Pacote Office
+- 🎤 Apresentações e integração de colaboradores
+- 🤝 Trabalho em equipe
+- 🎯 Organização e cumprimento de prazos
+
+---
+
+## 🏆 Certificações
+
+🏅 **Microsoft Azure Fundamentals — AZ-500**  
+🏅 **Informática Básica — SENAI**
+
+---
+
+## 🎯 Objetivo
+
+💻 **Desenvolvedor Full Stack**
+
+Busco uma oportunidade na área de tecnologia para aplicar meus conhecimentos, desenvolver projetos e continuar evoluindo profissionalmente.
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:brunosalazarse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/bruno-da-silva-s-802070292">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
