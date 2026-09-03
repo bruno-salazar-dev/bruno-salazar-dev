@@ -1,100 +1,61 @@
 # 👋 Bruno da Silva Salazar Pardo
 
-`💻 Desenvolvedor Full Stack` • `🎓 Estudante de ADS`
+💻 **Objetivo:** Desenvolvedor Full Stack
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul e atualmente trabalho como **Jovem Aprendiz - Auxiliar de RH na Bauducco**.
-
-Tenho interesse em **desenvolvimento web e software**, com foco em evoluir como **Desenvolvedor Full Stack**. Atualmente estou estudando programação, desenvolvimento web, bancos de dados e controle de versão.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul e atualmente trabalho como **Jovem Aprendiz - Auxiliar de RH** na Bauducco. Busco uma oportunidade para desenvolver minha carreira como **Desenvolvedor Full Stack**, aplicando conhecimentos em desenvolvimento web, bancos de dados e controle de versão.
 
 ---
 
-## 🤖 Linguagens
+### 🚀 Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-</p>
+**Linguagens**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🧩 Ferramentas & Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-</p>
+**Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🗄️ Banco de Dados
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-</p>
-
----
-
-## 📚 Atualmente estudando
-
-- 🐍 Python
-- 🌐 Desenvolvimento Web
-- ⚡ JavaScript
-- 🗄️ Banco de Dados e SQL
-- 🔧 Git e GitHub
-- 🧠 Lógica de Programação
-- 🚀 Desenvolvimento Full Stack
+### 📚 Atualizando conhecimentos em:
+* 🌐 Desenvolvimento Full Stack
+* 🗄️ Banco de dados SQL
+* ⚡ JavaScript
+* 🐍 Python
 
 ---
 
-## 🎓 Formação
+### 💼 Experiência Profissional
 
-**Análise e Desenvolvimento de Sistemas**  
-🎓 Universidade Cruzeiro do Sul  
-📅 Cursando desde Maio/2025
-
----
-
-## 💼 Experiência
-
-**Jovem Aprendiz — Auxiliar de RH | Bauducco**  
-📅 Maio/2025 — Atual
-
-- 📊 Rotinas administrativas e Pacote Office
-- 🎤 Apresentações e integração de colaboradores
-- 🤝 Trabalho em equipe
-- 🎯 Organização e cumprimento de prazos
+**Jovem Aprendiz - Auxiliar de RH** | *Bauducco* (Mai/2025 - Atual)
+* Execução de rotinas administrativas utilizando o Pacote Office (Excel, Word e PowerPoint).
+* Condução de apresentações em palestras e integrações de novos colaboradores, aprimorando comunicação e oratória.
+* Gestão de rotinas e prazos do setor com foco em organização e eficiência dos processos internos.
 
 ---
 
-## 🏆 Certificações
+### 🎓 Formação Acadêmica
 
-🏅 **Microsoft Azure Fundamentals — AZ-500**  
-🏅 **Informática Básica — SENAI**
-
----
-
-## 🎯 Objetivo
-
-💻 **Desenvolvedor Full Stack**
-
-Busco uma oportunidade na área de tecnologia para aplicar meus conhecimentos, desenvolver projetos e continuar evoluindo profissionalmente.
+* **Análise e Desenvolvimento de Sistemas**  
+  🎓 Universidade Cruzeiro do Sul  
+  📅 Cursando desde Maio/2026
 
 ---
 
-## 📫 Contato
+### 📜 Certificações
 
-<p align="left">
-  <a href="mailto:brunosalazarse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/bruno-da-silva-s-802070292">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+* 🛡️ **Microsoft Azure Fundamentals - AZ-500** — SENAI Hermenegildo Campos (2023)
+* 💻 **Informática Básica** — SENAI Hermenegildo Campos (2023)
 
 ---
 
-⭐ *Sempre aprendendo, desenvolvendo e buscando novos desafios na tecnologia.*
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-salazar-pardo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosalazarse@gmail.com)
