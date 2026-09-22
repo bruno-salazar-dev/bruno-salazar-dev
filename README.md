@@ -36,7 +36,7 @@ Atualmente estudando **Python, HTML, CSS, JavaScript, Git e GitHub**.
 ## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas**  
-Universidade Cruzeiro do Sul · `2025 — atualmente`
+Universidade Cruzeiro do Sul · `2026 - 2027`
 
 ---
 
@@ -58,17 +58,9 @@ Experiência com rotinas administrativas, Excel, Word, PowerPoint, organização
 
 ## 💻 Projetos
 
-### 📝 To-Do List
+### 📝 To-Do List em Desenvolvimento
 
 Aplicação para praticar fundamentos de desenvolvimento web.
-
-`HTML` `CSS` `JavaScript`
-
-🔗 [Ver projeto](#)
-
-### 🍔 Código em Ação
-
-Projeto colaborativo desenvolvido para colocar em prática conhecimentos de programação e desenvolvimento web.
 
 `HTML` `CSS` `JavaScript`
 
