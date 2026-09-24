@@ -1,12 +1,10 @@
-<div align="center">
+div align="center">
 
-<img src="./assets/banner.png" width="100%" />
+<img src="./assets/banner.png" width="100%" alt="banner" />
 
-<br>
+<br><br>
 
-# 👋 Olá, eu sou o Bruno
-
-`Developer in progress` · `ADS Student` · `Tech Enthusiast`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Bruno+%F0%9F%91%8B;Developer+in+progress;ADS+Student;Tech+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -14,9 +12,9 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor em formação, com foco em **Full Stack**  
-🧠 Construindo uma base sólida em lógica de programação  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+💻 Desenvolvedor em formação, com foco em **Full Stack**
+🧠 Construindo uma base sólida em lógica de programação
 📚 Aprendendo através de projetos práticos
 
 Atualmente estudando **Python, HTML, CSS, JavaScript, Git e GitHub**.
@@ -27,7 +25,7 @@ Atualmente estudando **Python, HTML, CSS, JavaScript, Git e GitHub**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="tech stack icons" />
 
 </div>
 
@@ -35,7 +33,7 @@ Atualmente estudando **Python, HTML, CSS, JavaScript, Git e GitHub**.
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas**  
+**Análise e Desenvolvimento de Sistemas**
 Universidade Cruzeiro do Sul · `2026 - 2027`
 
 ---
@@ -49,7 +47,7 @@ Universidade Cruzeiro do Sul · `2026 - 2027`
 
 ## 💼 Experiência
 
-**Jovem Aprendiz — Auxiliar de RH · Bauducco**  
+**Jovem Aprendiz — Auxiliar de RH · Bauducco**
 `05/2025 — atualmente`
 
 Experiência com rotinas administrativas, Excel, Word, PowerPoint, organização de informações, apresentações e comunicação com equipes.
@@ -72,9 +70,15 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=brunosalazarse-lgtm&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalazarse-lgtm&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brunosalazarse-lgtm&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -82,7 +86,7 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 
 ## 🌎 Idiomas
 
-🇧🇷 Português · Nativo  
+🇧🇷 Português · Nativo
 🇺🇸 Inglês · A2
 
 ---
@@ -92,11 +96,11 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bruno-da-silva-s-802070292">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:brunosalazarse@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
@@ -106,5 +110,7 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 <div align="center">
 
 `Always learning. Always building. ⚔️`
+
+<img src="https://komarev.com/ghpvc/?username=brunosalazarse-lgtm&style=flat&color=blue" alt="Profile views" />
 
 </div>
