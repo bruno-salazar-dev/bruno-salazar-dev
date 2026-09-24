@@ -61,8 +61,6 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 
 `HTML` `CSS` `JavaScript`
 
-🔗 [Ver projeto](#)
-
 ---
 
 ## 📊 GitHub Stats
