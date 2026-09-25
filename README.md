@@ -84,6 +84,7 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 ## 🌎 Idiomas
 
 🇧🇷 Português · Nativo
+
 🇺🇸 Inglês · A2
 
 ---
@@ -92,7 +93,7 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bruno-da-silva-s-802070292">
+<a href="www.linkedin.com/in/bruno-salazar-pardo">
 <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
