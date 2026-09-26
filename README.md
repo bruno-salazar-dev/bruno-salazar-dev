@@ -1,4 +1,4 @@
-
+[
 <img src="./assets/banner.png" width="100%" alt="banner" />
 
 <br><br>
@@ -112,3 +112,4 @@ Aplicação para praticar fundamentos de desenvolvimento web.
 <img src="https://komarev.com/ghpvc/?username=brunosalazarse-lgtm&style=flat&color=blue" alt="Profile views" />
 
 </div>
+](https://github.com/bruno-salazar-dev)
