@@ -1,6 +1,3 @@
-<div align="center">
-<img src="./assets/banner.png" width="100%" alt="banner" />
-
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Bruno+%F0%9F%91%8B;Developer+in+progress;ADS+Student;Tech+Enthusiast" alt="Typing SVG" />
