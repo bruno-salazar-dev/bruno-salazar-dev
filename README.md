@@ -33,7 +33,6 @@ Universidade Cruzeiro do Sul · `2026 - 2027`
 ## Cursos
 
 - ☁️ **Microsoft Azure Fundamentals — AZ-900**
-- 💻 **Informática Básica — SENAI**
 
 ---
 
